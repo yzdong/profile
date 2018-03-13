@@ -1,0 +1,52 @@
+.header {
+  text-align: center;
+}
+
+.image {
+
+}
+
+.banner {
+  text-align: center;
+}
+
+.title {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.blurb {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.field {
+  align: center;
+  margin: 20px;
+}
+
+.field-subtext {
+  font-size: 15px
+}
+
+form {
+  padding: 0 40px;
+}
+
+form select {
+  display: block;
+  width: 100%;
+  font-size: 20px;
+  padding: 5px 10px;
+  margin: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+form input.error {
+  border-color: red;
+}
